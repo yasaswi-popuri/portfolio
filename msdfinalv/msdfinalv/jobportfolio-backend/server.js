@@ -13,7 +13,7 @@ const app = express();
 
 // Middleware
 app.use(cors({
-  origin: 'https://job-portfolio-gules.vercel.app/',
+  origin: 'job-portfolio-git-main-yasaswis-projects-b8b4f7f3.vercel.app',
   credentials: true
 }));
 app.use(express.json());
